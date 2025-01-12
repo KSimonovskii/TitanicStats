@@ -2,7 +2,6 @@ package telran.charstream;
 
 import telran.charstream.model.Passenger;
 import telran.charstream.model.enums.Category;
-import telran.charstream.model.enums.Sex;
 import telran.charstream.model.utils.Utils;
 
 import java.io.*;

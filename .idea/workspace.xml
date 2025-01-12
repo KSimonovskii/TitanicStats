@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6c54079-97dc-4463-88c2-713bddf626a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw29_TitanicStats.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/telran/charstream/TitanicStatsAppl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/telran/charstream/model/Passenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/telran/charstream/model/enums/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/telran/charstream/model/enums/Port.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/telran/charstream/model/enums/Sex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/telran/charstream/model/utils/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/train.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train.csv" afterDir="false" />
+    <list default="true" id="f6c54079-97dc-4463-88c2-713bddf626a7" name="Changes" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/telran/charstream/TitanicStatsAppl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/telran/charstream/TitanicStatsAppl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/IdeaProjects/TelRan/HW/hw29_TitanicStats/hw29_TitanicStats"
   }
 }]]></component>
@@ -69,7 +56,31 @@
       <option name="presentableId" value="Default" />
       <updated>1736673125744</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1736688963235</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736688963235</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
